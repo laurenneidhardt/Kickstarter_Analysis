@@ -1,2 +1,2 @@
-# Kickstarter_Analysis
-Kickstarter analysis on worldwide fundraising efforts
+# An Analysis of Kickstarter Campaigns
+An Excel analysis of kickstarter campaigns, focused on plays and theater fundraising
